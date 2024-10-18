@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabbir-sharif
+- 👋 Hi, I’m Sabbir Sharif.
 - 👀 I’m interested in Web Development, ML, Blockchain.
 - 🌱 I’m currently learning Django, OOP in Java.
 <!--- 💞️ I’m looking to collaborate on ... 
