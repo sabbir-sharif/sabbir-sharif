@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
-- 💬 Ask me about **C/C++, Python**
+- 💬 Ask me about **C/C++, Python, Java**
 
 - 📫 How to reach me **sabbirshariff2001@gmail.com**
 
