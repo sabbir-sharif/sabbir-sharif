@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sabbirshariff2001@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/diu.edu.bd/sabbirsharif/home](https://sites.google.com/diu.edu.bd/sabbirsharif)
+- 📄 Know about my experiences [https://sites.google.com/diu.edu.bd/sabbirsharif](https://sites.google.com/diu.edu.bd/sabbirsharif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
