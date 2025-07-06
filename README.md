@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabbir Sharif</h1>
 <h3 align="center">A passionate Computer Science & Engineering Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-sharif&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-sharif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbir-sharif" alt="sabbir-sharif" /></a> </p>
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
